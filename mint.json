@@ -8,8 +8,8 @@
   "favicon": "https://nexuresolutions.com/assets/img/favicon/favicon-32x32.png",
   "colors": {
     "primary": "#8bc2f0",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#8bc2f0",
+    "dark": "#8bc2f0",
     "anchors": {
       "from": "#8bc2f0",
       "to": "#07C983"
