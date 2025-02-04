@@ -38,7 +38,8 @@
       "pages": [
         "introduction",
         "web-design/webdevelopment",
-        "web-design/wordpressdevelopment"
+        "web-design/wordpressdevelopment",
+        "hosting/nameservers"
       ]
     }
   ],
