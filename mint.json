@@ -36,7 +36,8 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction"
+        "introduction",
+        "web-design/webdevelopment"
       ]
     }
   ],
