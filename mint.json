@@ -29,14 +29,14 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https:/docs.nexuresolutions.com"
+      "url": "https://docs.nexuresolutions.com"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
+        "introduction"
       ]
     }
   ],
