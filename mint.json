@@ -5,7 +5,7 @@
     "dark": "https://nexuresolutions.com/assets/img/logos/NexureWideLogoWhite.svg",
     "light": "https://nexuresolutions.com/assets/img/logos/NexureWideLogo.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://nexuresolutions.com/assets/img/favicon/favicon-32x32.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
