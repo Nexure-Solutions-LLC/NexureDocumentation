@@ -37,7 +37,8 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "web-design/webdevelopment"
+        "web-design/webdevelopment",
+        "web-design/wordpressdevelopment"
       ]
     }
   ],
